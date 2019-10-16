@@ -1,0 +1,17 @@
+{{each list}}
+<li class="list-item" data-id="{{$value.positionId}}">
+    <img src="//www.lgstatic.com/{{$value.companyLogo}}" alt="" class="item-logo">
+    <div class="item-desc">
+        <h2 class="item-title">{{$value.positionName}}</h2>
+        <p class="item-info">
+            <span class="item-pos">
+                {{$value.companyName}}
+            </span>
+            <span class="item-salary">
+                {{$value.salary}}
+            </span>
+        </p>
+        <p class="item-time">{{$value.createTime}}</p>
+    </div>
+</li>
+{{/each}}

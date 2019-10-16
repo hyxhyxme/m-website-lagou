@@ -1,0 +1,17 @@
+<div class="list-container">
+    <div class="head">
+        <img src="/assets/images/arrow.png"/>
+        <b>下拉刷新...</b>
+    </div>
+    <nav>
+        <div>10秒钟定制职位</div>
+        <div>去登录</div>
+    </nav>
+    <ul>
+       
+    </ul>
+    <div class="foot">
+        <img src="/assets/images/arrow.png"/>
+        <b>上拉加载更多...</b>
+    </div>
+</div>

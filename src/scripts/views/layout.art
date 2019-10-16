@@ -1,0 +1,14 @@
+<div class="indexContainer">
+    <header>拉勾网</header>
+    <main>
+    
+    </main>
+    <footer>
+        <ul>
+            <li data-to="position" class="active"><span class="yo-ico">&#xe7d4</span>职位</li>
+            <li data-to="search"><span class="yo-ico">&#xe7da;</span>搜索</li>
+            <li data-to="profile"><span class="yo-ico">&#xe78b;</span>我的</li>
+        </ul>
+    </footer>
+
+</div>
